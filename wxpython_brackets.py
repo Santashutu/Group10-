@@ -9,8 +9,6 @@ label = wx.StaticText(panel, label = "To exit, press #", pos = (100,50))
 class CalcFrame(demo.MyFrame1):
    def __init__(self,parent):
       demo.MyFrame1.__init__(self,parent)
-
-print(f'// To exit, press "#"')
 b_list = []
 o_list = []
 brackets_dict = {
