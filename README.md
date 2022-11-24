@@ -18,7 +18,7 @@ wxPython is a cross-platform GUI toolkit you can use to create functional GUIs i
    ** Disdvantage**
     - Not pre-installed on Python
     
-    **Java Code to Check Nested Brackets**
+    **Python code to Check Nested Brackets(in Java codes)**
     
 
 **2: Using tkinter**
